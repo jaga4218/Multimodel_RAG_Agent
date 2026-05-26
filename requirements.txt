@@ -1,0 +1,11 @@
+streamlit
+chromadb
+sentence-transformers
+groq
+pymupdf
+pytesseract
+pillow
+transformers
+torch
+langchain
+langchain-text-splitters
